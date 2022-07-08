@@ -1,5 +1,5 @@
 BMI (Body Mass Index) Calculating App,
-followed tutorial to create this app
+followed tutorial to create this app. Used MVC design pattern to decrease complexity. Used Segues to activate result screen.
 
 
 ![1-removebg-preview](https://user-images.githubusercontent.com/104306074/178061297-71dc55fe-c342-4edc-8a30-2757d1e5b8a4.png)
